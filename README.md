@@ -1,4 +1,4 @@
-## Builder Pattern — Pedido de Lanche Personalizado
+## Builder em um cenário real - Pedido de Lanche Personalizado
 
 Projeto em Java que demonstra o uso do **Builder** para criar pedidos personalizados em uma hamburgueria/pizzaria.
 
